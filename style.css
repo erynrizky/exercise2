@@ -1,0 +1,37 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    background: linear-gradient(to bottom, #33cccc 35%, #006699 100%);
+    font-family: Lucida Sans;
+}
+.judul{
+    color: whitesmoke;
+    margin-top: 200px;
+    text-shadow: 2px 2px black;
+}
+.marginclass{
+    margin-top: 10px;
+}
+label{
+    color: whitesmoke;
+    text-transform: uppercase;
+}
+.form-group{
+    text-align: center;
+}
+
+.form-control{
+    width: 300px;
+}
+
+.tombol{
+    
+    text-align: center;
+}
+
+.btn{
+    width: 70px;
+}
+
+
+
